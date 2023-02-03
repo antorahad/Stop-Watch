@@ -33,7 +33,7 @@ function start () {
         return
     }
 
-    interval = setInterval(timer, 1000);
+    interval = setInterval(timer, 100);
 }
 
 function stop () {
