@@ -7,7 +7,7 @@
 }
 body{
     display: flex;
-    background: #13005A;
+    background: #000;
     height: 100vh;
     justify-content: center;
     align-items: center;
@@ -44,7 +44,7 @@ body{
     color: #000;
     background-color: #ECE8DD;
     margin: 0 0.5rem;
-    padding: 0.5rem 1rem;
+    padding: 0.3rem 1rem;
     transition: 0.4s;
     border-radius: 0.5rem;
     font-size: 1.125rem;
